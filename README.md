@@ -4,11 +4,10 @@ http://yan411.com/downloads/fast-multiple-website-opener/
 
 Name  | Fast Multiple Website Opener
 ------------- | -------------
-Download | http://yan411.com/downloads/fast-multiple-website-opener/
-Version  | Content Cell
+Version | 1.0.1
 Author | Yan S. Huang
+URL | http://yan411.com/downloads/fast-multiple-website-opener/
 URL | http://yan411.com
-URL | http://youtube.com/c/yanshenghuang/
 
 
 I. Introduction
