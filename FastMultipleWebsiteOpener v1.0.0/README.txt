@@ -1,5 +1,5 @@
 Name:		Fast Multiple Website Opener
-Version:	1.0
+Version:	1.0.0
 Author:		Yan S. Huang
 Website:	http://yan411.com
 YouTube:	http://youtube.com/c/yanshenghuang/
