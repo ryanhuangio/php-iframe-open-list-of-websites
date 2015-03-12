@@ -1,12 +1,10 @@
 # Fast Multiple Website Opener
 
-http://yan411.com/downloads/fast-multiple-website-opener/
-
 Name  | Fast Multiple Website Opener
 ------------- | -------------
 Version | 1.0.1
 Author | Yan S. Huang
-URL | http://yan411.com/downloads/fast-multiple-website-opener/
+Download | http://yan411.com/downloads/fast-multiple-website-opener/
 URL | http://yan411.com
 
 
