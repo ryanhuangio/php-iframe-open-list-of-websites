@@ -3,6 +3,7 @@
 http://yan411.com/downloads/fast-multiple-website-opener/
 
 | Name  | Fast Multiple Website Opener |
+| ------------- | ------------- |
 | Version  | 1.0.0  |
 
 
