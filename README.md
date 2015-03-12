@@ -3,8 +3,11 @@
 http://yan411.com/downloads/fast-multiple-website-opener/
 
 Version:  1.0.0
+
 Author:   Yan S. Huang
+
 URL:      http://yan411.com
+
 URL:      http://youtube.com/c/yanshenghuang/
 
 
