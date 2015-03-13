@@ -41,3 +41,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Notepad++ Files
+Notepad++
+config.xml
+contextMenu.xml
+langs.xml
+shortcuts.xml
+stylers.xml
