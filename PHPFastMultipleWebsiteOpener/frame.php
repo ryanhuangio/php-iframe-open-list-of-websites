@@ -34,7 +34,7 @@ if ($handle) {
 }
 ?>
 <div id="credits">
-<a href="http://yan411.com/downloads/fast-multiple-website-opener/" title="Fast Multiple Website Opener" target="_blank">Fast Multiple Website Opener</a> PHP script by <a href="http://yan411.com" target="_blank" title="Yan 411">Yan Huang</a>.
+<a href="#" title="Fast Multiple Website Opener" target="_blank">Fast Multiple Website Opener</a> 
 </div>
 </div>
 </div>
