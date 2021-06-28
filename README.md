@@ -3,7 +3,7 @@
 Name  | Fast Multiple Website Opener
 ------------- | -------------
 Version | 1.0.3
-Author | Yan Bits
+Author | Ryan Huang
 
 ## Introduction
 Fast Multiple Website Opener is a PHP script to streamline the process flow of manually going through a list of websites. This is perfect if you or a staff member needs to review a long list of websites, whether to contact them for partnerships or simply for research.
