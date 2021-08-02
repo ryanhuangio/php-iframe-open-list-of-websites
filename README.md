@@ -1,20 +1,18 @@
-# Fast Multiple Website Opener
+# PHP iFrame Open List of Websites
 
-Name  | Fast Multiple Website Opener
+Name  | PHP iFrame Open List of Websites
 ------------- | -------------
 Version | 1.0.3
 Author | Ryan Huang
 
 ## Introduction
-Fast Multiple Website Opener is a PHP script to streamline the process flow of manually going through a list of websites. This is perfect if you or a staff member needs to review a long list of websites, whether to contact them for partnerships or simply for research.
+PHP iFrame Open List of Websites is a basic PHP script to streamline the process flow of manually opening through a list of websites, for partnership research, website research and data entry tasks.
 
 ## Requirements
 
-1. Linux server that supports PHP
+1. PHP 5.6+
 
 ## Instructions
 
 1. Edit list.txt and add each website as a separate line.
-2. Upload to your web server.
-3. Go to yourwebsite.com/frame.php
-
+2. Open http://localhost/frame.php
