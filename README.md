@@ -2,7 +2,7 @@
 
 Name  | PHP iFrame Open List of Websites
 ------------- | -------------
-Version | 1.0.3
+Version | 1.0
 Author | Ryan Huang
 
 ## Introduction
